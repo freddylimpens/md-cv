@@ -54,7 +54,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	/*font-size: 80%;*/
 	line-height: 1.5em;
 	/* font-family: Verdana, sans-serif; */
 	font-family: "Open sans", sans-serif;
@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -10%;
+	left: -12%;
 }
 
 
@@ -170,7 +170,7 @@ a:hover {
   margin-left: 25%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	/*font-size: 80%;*/
 }
 
 #webaddress a {

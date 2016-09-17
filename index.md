@@ -1,38 +1,62 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Freddy Limpens's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Freddy Limpens
+Full stack web developper and PhD in knowledge engineering
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:freddy.limpens@limpica.net">freddy.limpens@limpica.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">Freddy Limpens</a>
+
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Research Engineer at Université de Lille - Humanities and Social Sciences - where I develop innovative e-learning solutions.
 
-## Employment
+## Experience
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`09.2015-now`
+__Université de Lille__ Research Engineer, Architect and Developer for e-learning solutions around the [Culture Numérique project](http://culturenumerique.univ-lille3.fr/)
+
+`11.2013-09.2015`
+__Fuzzy Frequency, Digital art and web agency__ Associated partner, Full-stack developper for collaborative web applications and webdocs (see  [http://fuzzyfrequency.com/](http://fuzzyfrequency.com/))
+
+`12.2012-10.2013`
+__Imagination for People, NGO__ Technical coordinator and developper of the collaborative platform [imagination for people](http://imaginationforpeople.org) dedicated to the discovery of social projects.
+
+`01.2011-02.2012`
+__Ecole Polytechnique Fédérale de Lausanne EPFL__ Postdoc researcher in the REACT team, Modelling and collaborative software prototyping in the Euuropean Project ROLE focused on agile and responsive digital learning environments
+
+## Teaching
+
+`2015-2016`
+__Université de Lille__ Responsible for 2 classes : *Database Introduction and Data journalism* and *Web development and CMS"
+
+`2012`
+__Les Petits Débrouillards__ One of the main french popular science NGO; tutoring for several workshops about Astronomy, Chemistry, and Physics. 
+
+`2010`
+__Université Nice Sophia Antipolis__ Laboraty classes *Web 2.0 Technology*
+
+`2005`
+__Acadomia__ Personnal teacher for high school students in Maths and Physics
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2007-2010`
+__INRIA Sophia Antipolis_ Computer Science PhD, Wimmics Team (Knowledge engineering and Semantic Web) *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2005-2007`
+__Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2000-2005`
+__University of Technology of Compiègne UTC__ Engineer Degree in Mechanics, specialized in Acoustics
 
 ## Presentations
 
