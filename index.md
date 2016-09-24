@@ -20,21 +20,21 @@ I'm a Research Engineer at Université de Lille - Humanities and Social Sciences
 
 ## Experience
 
-`09.2015-now`
+`09.2015 - now`
 __Université de Lille__ Research Engineer; Architect and Developer for e-learning solutions around the [Culture Numérique project](http://culturenumerique.univ-lille3.fr/)
 
-`11.2013-09.2015`
+`11.2013 - 09.2015`
 __Fuzzy Frequency, Digital art and web agency__ Associated partner; Full-stack developper for collaborative web applications and webdocs (see  [http://fuzzyfrequency.com/](http://fuzzyfrequency.com/))
 
-`12.2012-10.2013`
+`12.2012 - 10.2013`
 __Imagination for People, NGO__ Technical coordinator and developper of the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery of social projects.
 
-`01.2011-02.2012`
-__Ecole Polytechnique Fédérale de Lausanne, EPFL__ Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the Euuropean Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments
+`01.2011 - 02.2012`
+__Ecole Polytechnique Fédérale de Lausanne, EPFL__ Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments
 
 ## Teaching
 
-`2015-2016`
+`2015 - 2016`
 __Université de Lille__ Responsible for 2 classes : *Database Introduction and Data journalism* and *Web development and CMS*
 
 `2012`
@@ -48,13 +48,13 @@ __Acadomia__ Personnal teacher for high school students in Maths and Physics
 
 ## Education
 
-`2007-2010`
+`2007 - 2010`
 __INRIA Sophia Antipolis__ Computer Science PhD, [Wimmics Team](http://wimmics.inria.fr/) (Knowledge engineering and Semantic Web) *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
 
-`2005-2007`
+`2005 - 2007`
 __Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems
 
-`2000-2005`
+`2000 - 2005`
 __Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, specialized in Acoustics and Modelling
 
 
