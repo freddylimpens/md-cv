@@ -54,20 +54,19 @@ table {
 
 body {
 	font: normal normal 400;
-	/*font-size: 80%;*/
 	line-height: 1.5em;
-	/* font-family: Verdana, sans-serif; */
-	font-family: "Open sans", sans-serif;
+	font-family: Verdana, sans-serif; 
+	/*font-family: "Open sans", sans-serif;*/
 	margin-top: 1em;
 	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 27%;
+	left: 28%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 50%;
 }
 
 code {
@@ -79,7 +78,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -17%;
+	left: -22%;
 }
 
 
@@ -118,7 +117,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
-	left: 27%;
+	left: 28%;
 	 /*padding: .1rem 1rem;*/
   /*text-shadow: 1px 1px #fff,*/
       					/*1px 2px #ccc;*/
@@ -167,7 +166,7 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 27%;
+  	margin-left: 28%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	/*font-size: 80%;*/

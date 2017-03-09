@@ -14,7 +14,7 @@ Full stack web developper and PhD in knowledge engineering and linked data
 
 </div>
 
-## Currently
+## Currentlys
 
 I'm a Research Engineer at Université de Lille - Humanities and Social Sciences - where I develop innovative e-learning solutions.
 
@@ -85,11 +85,11 @@ As a teacher and science and philosophy , I love transmitting
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. -->
 
-## Links
+## Links 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">freddylimpens</a><br />
 * <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
+* <i class="fa fa-file-pdf-o"></i> <a href="cv_flimpens.EN.pdf">PDF version</a>
 
 
 <!-- ### Footer
