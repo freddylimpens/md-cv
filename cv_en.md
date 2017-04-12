@@ -8,7 +8,7 @@ title: Freddy Limpens's CV
 </div>   
     
 # Freddy Limpens
-Full stack web developper and PhD in knowledge engineering and linked data
+Engineer, full stack web developper, and PhD in linked data
 
 <div id="webaddress">
 <a href="mailto:freddy.limpens@limpica.net">freddy.limpens@limpica.net</a>
@@ -21,11 +21,11 @@ Full stack web developper and PhD in knowledge engineering and linked data
 
 ## Currently
 
-I'm a Research Engineer at Université de Lille - Humanities and Social Sciences - where I develop innovative e-learning solutions.
+I'm a freelance worker provinding consulting, teaching, and complete realizations in e-learning, web applications, and digital fabrication.   
 
 ## Experience
 
-`09.2015 - now`
+`09.2015 - 12.2016`
 __Université de Lille__ Research Engineer; Architect and Developer for e-learning solutions around the [Culture Numérique project](http://culturenumerique.univ-lille3.fr/)
 
 `11.2013 - 09.2015`
