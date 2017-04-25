@@ -8,46 +8,52 @@ title: Freddy Limpens's CV
 </div>   
     
 # Freddy Limpens
-Engineer, full stack web developper, and PhD in linked data
+Engineer, PhD in linked data and full stack web developper 
 
 <div id="webaddress">
-<a href="mailto:freddy.limpens@limpica.net">freddy.limpens@limpica.net</a>
+<a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">Freddy Limpens</a>
 
 </div>
-
+<!-- 
 ## Currently
 
-I'm a freelance worker provinding consulting, teaching, and complete realizations in e-learning, web applications, and digital fabrication.   
+I'm a freelance worker providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.   
+-->
+
 
 ## Experience
 
 `09.2015 - 12.2016`
-__Université de Lille__ Research Engineer; Architect and Developer for e-learning solutions around the [Culture Numérique project](http://culturenumerique.univ-lille3.fr/)
+__[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/)
 
 `11.2013 - 09.2015`
-__Fuzzy Frequency, Digital art and web agency__ Associated partner; Full-stack developper for collaborative web applications and webdocs (see  [http://fuzzyfrequency.com/](http://fuzzyfrequency.com/))
+__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations ( [Cartographies Urbaines (TAZ)](http://fuzzyfrequency.com/#/cartographies-taz-koan/), or [Arte.tv Worldbrain](http://worldbrain.arte.tv/))
 
 `12.2012 - 10.2013`
-__Imagination for People, NGO__ Technical coordinator and developper of the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery of social projects.
+__Imagination for People__ : Technical coordinator (agility inspired) and developper of the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery of social projects.
 
 `01.2011 - 02.2012`
-__Ecole Polytechnique Fédérale de Lausanne, EPFL__ Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments
+__Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments
+
+`09.2007 - 10.2010`
+__Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://react.epfl.ch/), Social tagging data analysis, Linked data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
 
 ## Technical skills
 
-* Python
-* Django
+* Python (Django, Flask)
+* Java
 * SQL
-* HTML and CSS
-* Javascript
-* Front End Dev (AngularJS, Leaflet, JQuery)
-* Git
-* Linux and bases of server administration
+* HTML/CSS
+* Javascript (JQuery, Leaflet)
+* AngularJS
 * Semantic Web (RDF, SPARQL)
+* Git
+* Linux (basis sys-admin)
+* Data-mining (string metrics, graphs)
 
 ## Teaching
 
@@ -60,13 +66,11 @@ __Les Petits Débrouillards__ One of the main french popular science NGO; tutori
 `2010`
 __Université Nice Sophia Antipolis__ Laboraty for a *Web 2.0 Technology* class
 
-`2005`
-__Acadomia__ Personnal teacher for high school students in Maths and Physics
 
 ## Education
 
 `2007 - 2010`
-__INRIA Sophia Antipolis__ Computer Science PhD, [Wimmics Team](http://wimmics.inria.fr/) (Knowledge engineering and Semantic Web) *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
+__Université Nice Sophia Antipolis__ Computer Science PhD, *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
 
 `2005 - 2007`
 __Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems

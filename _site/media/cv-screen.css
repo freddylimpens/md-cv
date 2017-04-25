@@ -139,14 +139,14 @@ h1+p {
 }
 h2 {
     font-size: 1.1em;
-    /* color: #a00; */
 	color: #4E4E4E;
 	font-weight: bold;
     margin-top: 2em;
     position: relative;
-    /*top: 1.4em;*/
-    text-align: right;
-    width: 15%;
+    /*text-align: right;*/
+    left: 28%;
+    margin-bottom: 1em;
+    margin-left: -155px;
 }
 h3 {
     color: #F07415;
