@@ -8,7 +8,7 @@ title: Freddy Limpens's CV
 </div>   
     
 # Freddy Limpens
-Engineer, PhD in linked data and full stack web developper 
+Engineer, PhD in linked data, and full stack web developper 
 
 <div id="webaddress">
 <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
@@ -28,19 +28,19 @@ I'm a freelance worker providing consulting, teaching, and complete realizations
 ## Experience
 
 `09.2015 - 12.2016`
-__[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/)
+__[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/).
 
 `11.2013 - 09.2015`
-__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations ( [Cartographies Urbaines (TAZ)](http://fuzzyfrequency.com/#/cartographies-taz-koan/), or [Arte.tv Worldbrain](http://worldbrain.arte.tv/))
+__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations (e.g. [Cartographies Urbaines (TAZ)](http://fuzzyfrequency.com/#/cartographies-taz-koan/), [Arte.tv Worldbrain](http://worldbrain.arte.tv/)).
 
 `12.2012 - 10.2013`
-__Imagination for People__ : Technical coordinator (agility inspired) and developper of the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery of social projects.
+__Imagination for People__ : Technical coordinator (following agile methods) and developper for the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery and sharing of social projects.
 
 `01.2011 - 02.2012`
-__Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments
+__Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments.
 
 `09.2007 - 10.2010`
-__Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://react.epfl.ch/), Social tagging data analysis, Linked data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
+__Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://wimmics.inria.fr/) working on social tagging data analysis, Linked Data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
 
 ## Technical skills
 
@@ -52,7 +52,7 @@ __Institut National de Recherche en Informatique et Automatique, [INRIA](https:/
 * AngularJS
 * Semantic Web (RDF, SPARQL)
 * Git
-* Linux (basis sys-admin)
+* Linux (basis in sys-admin)
 * Data-mining (string metrics, graphs)
 
 ## Teaching
