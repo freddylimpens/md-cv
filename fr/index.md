@@ -3,7 +3,7 @@ layout: cv
 title: CV Freddy Limpens
 ---
 <div id="lang">
-<a class="selected" href="cv_fr.html">FR</a> | <a class="unselected" href="cv_en.html">EN</a>
+<a class="selected" href="../fr/">FR</a> | <a class="unselected" href="../en/">EN</a>
 </div>
 
     
@@ -11,7 +11,7 @@ title: CV Freddy Limpens
 Ingénieur R&D solutions Web et e-learning
 
 <div id="webaddress">
-<a href="mailto:freddy.limpens@limpica.net">freddy.limpens@limpica.net</a>
+<a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
 |
@@ -21,7 +21,7 @@ Ingénieur R&D solutions Web et e-learning
 
 ## A présent
 
-Je suis ingénieur généraliste et docteur en informatique, avec 5 ans d'expériences dans la conception et le développement de solutions Web collaboratives, interactives, et/ou e-learning
+<p style="margin-top:-42px">Je suis ingénieur généraliste et docteur en informatique, avec 5 ans d'expériences dans la conception et le développement de solutions Web collaboratives, interactives, et/ou e-learning.</p>
 
 ## Expériences
 
@@ -85,14 +85,12 @@ I was member of the board of managers of one of the first coworking place in Lil
 
 ### scientific mediation
 
-As a teacher and science and philosophy , I love transmitting
+TBD
 
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. -->
+-->
 
 ## Liens
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
-* <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
-* <i class="fa fa-file-pdf-o"></i> <a href="cv_flimpens.FR.pdf">PDF version</a>
+* <i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a><br />
+* <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/fr/freddy_limpens.cv.fr.pdf">PDF version</a>

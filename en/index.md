@@ -4,11 +4,11 @@ title: Freddy Limpens's CV
 ---
 
 <div id="lang">
-<a class="unselected" href="cv_fr.html">FR</a> | <a class="selected" href="cv_en.html">EN</a>
+<a class="unselected" href="../fr/">FR</a> | <a class="selected" href="../en/">EN</a>
 </div>   
     
 # Freddy Limpens
-Engineer, PhD in linked data, and full stack web developper 
+36 years old engineer, PhD and full stack web developper 
 
 <div id="webaddress">
 <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
@@ -16,13 +16,11 @@ Engineer, PhD in linked data, and full stack web developper
 <i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">Freddy Limpens</a>
-
 </div>
-<!-- 
+
 ## Currently
 
-I'm a freelance worker providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.   
--->
+<p style="margin-top:-42px">I'm a freelance worker providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.</p>
 
 
 ## Experience
@@ -99,7 +97,7 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
 * <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
-* <i class="fa fa-file-pdf-o"></i> <a href="cv_flimpens.EN.pdf">PDF version</a>
+* <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/en/freddy_limpens.cv.en.pdf">PDF version</a>
 
 
 <!-- ### Footer
