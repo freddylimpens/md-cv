@@ -8,14 +8,16 @@ title: Freddy Limpens's CV
 </div>   
     
 # Freddy Limpens
-36 years old engineer, PhD and full stack web developper 
+French 36 years old engineer, PhD and full stack web developper 
 
 <div id="webaddress">
-<a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
+<i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
+<i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">Freddy Limpens</a>
+<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">GitHub</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
 </div>
 
 ## Currently
@@ -43,16 +45,18 @@ __Institut National de Recherche en Informatique et Automatique, [INRIA](https:/
 ## Technical skills
 
 * Python (Django, Flask)
-* Java
-* SQL
-* HTML/CSS
+* Testing (Python Unittest)
+* Java (J2EE)
+* SQL (PostgreSQL, MySQL)
+* HTML5/CSS3
 * Javascript (JQuery, Leaflet)
-* AngularJS
+* AngularJS 
 * Semantic Web (RDF, SPARQL)
 * Git
 * Linux (basis in sys-admin)
 * Data-mining (string metrics, graphs)
 
+<!--
 ## Teaching
 
 `2015 - 2016`
@@ -64,6 +68,7 @@ __Les Petits Débrouillards__ One of the main french popular science NGO; tutori
 `2010`
 __Université Nice Sophia Antipolis__ Laboraty for a *Web 2.0 Technology* class
 
+-->
 
 ## Education
 
@@ -76,6 +81,15 @@ __Chalmers University of Technology__ MSc Applied Information Technology, specia
 `2000 - 2005`
 __Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, specialized in Acoustics and Modelling
 
+## Language and other skills
+
+* **English** : fluent
+* **Italian** : fluent
+* **French** : native
+* Driving: **B patent**
+* Digital fabrication
+* Wood works and design
+* Occasional guitar player
 
 
 
@@ -91,8 +105,10 @@ As a teacher and science and philosophy , I love transmitting
 
 ### datarea
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. -->
+I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. 
+-->
 
+<!--
 ## Links 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
@@ -100,6 +116,6 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 * <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/en/freddy_limpens.cv.en.pdf">PDF version</a>
 
 
-<!-- ### Footer
+### Footer
 
 Last updated: May 2013 -->

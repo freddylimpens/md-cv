@@ -8,15 +8,16 @@ title: CV Freddy Limpens
 
     
 # Freddy Limpens
-Ingénieur R&D solutions Web et e-learning
+Ingénieur R&D solutions Web et e-learning, 36 ans.
 
 <div id="webaddress">
-<a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
+<i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">Shared code</a>
+<i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">Freddy Limpens</a>
-
+<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">GitHub</a>
+|
+<i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
 </div>
 
 ## A présent
@@ -26,7 +27,7 @@ Ingénieur R&D solutions Web et e-learning
 ## Expériences
 
 `09.2015 - 12.2016`
-__Université de Lille__ Ingénieur de Recherche; Architecte et développeur de solutions e-learning autour du mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/)
+__Université de Lille__ Ingénieur de Recherche; Architecte et développeur de solutions d'éditions collaborative et de publications multi-canaux autour du mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/)
 
 `11.2013 - 09.2015`
 __Fuzzy Frequency, Agence Web et Arts numériques__ Associé; Développeur Full-stack de plateformes web collaboratives et webdocs
@@ -40,15 +41,16 @@ __Ecole Polytechnique Fédérale de Lausanne, EPFL__ PostDoc; [équipe REACT](ht
 
 ## Compétences Techniques
 
-* Python
-* Django
-* SQL
-* HTML / CSS
+* Python (Django, Flask)
 * Javascript (Leaflet, JQuery)
 * AngularJS
-* Git
-* Administration Linux 
+* SQL
+* HTML / CSS (Bootstrap)
+* versioning Git
+* Administration Serveur Linux (Bases) 
 * Web Sémantique (RDF, SPARQL)
+* Java (J2EE)
+* FreeCAD
 
 ## Enseignement
 
@@ -75,7 +77,14 @@ __Chalmers University of Technology__ Master of Science, spécialité Technologi
 __Université de Technologie de Compiègne UTC__ Ingénieur en Mécanique, spécialité Acoustique et Modélisations
 
 
+## Autres compétences et intérêts
 
+* **Anglais** : courant
+* **Italien** : courant
+* **Permis B**
+* Fabrication Numérique (CNC)
+* Menuiserie
+* Guitare, Photos, Videos
 
 <!-- ## Projects
 
@@ -91,6 +100,4 @@ TBD
 
 ## Liens
 
-* <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
-* <i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a><br />
 * <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/fr/freddy_limpens.cv.fr.pdf">PDF version</a>
