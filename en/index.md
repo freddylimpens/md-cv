@@ -86,10 +86,12 @@ __Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, s
 * **English** : fluent
 * **Italian** : fluent
 * **French** : native
-* Driving: **B patent**
+* **Driving Licence (B)**
 * Digital fabrication
+* 3D modelling
 * Wood works and design
 * Occasional guitar player
+* DIY and free software
 
 
 
