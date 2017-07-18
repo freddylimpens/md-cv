@@ -42,6 +42,9 @@ __Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdo
 `09.2007 - 10.2010`
 __Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://wimmics.inria.fr/) working on social tagging data analysis, Linked Data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
 
+`09.2004-02.2005`
+__[Fluydin France](http://www.fluidyn.com)__ :Internship in a consultancy and software modeling company in fluid dynamics and acoustic area. Enhancement of algorithms for modelling noise propagation on long distance.
+
 ## Technical skills
 
 * Python (Django, Flask)
@@ -53,8 +56,12 @@ __Institut National de Recherche en Informatique et Automatique, [INRIA](https:/
 * AngularJS 
 * Semantic Web (RDF, SPARQL)
 * Git
-* Linux (basis in sys-admin)
-* Data-mining (string metrics, graphs)
+* Linux (sys-admin)
+* Data-mining
+* Scientific Computation
+* Matlab
+* CAD (FreeCad)
+* MicroControllers
 
 <!--
 ## Teaching
