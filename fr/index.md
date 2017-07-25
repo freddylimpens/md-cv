@@ -3,7 +3,7 @@ layout: cv
 title: CV Freddy Limpens
 ---
 <div id="lang">
-<a class="selected" href="../fr/">FR</a> | <a class="unselected" href="../en/">EN</a>
+<a class="selected" href="../fr/">FR</a> | <a class="unselected" href="../en/">EN</a> | <a class="unselected" href="../it/">IT</a>
 </div>
 
     

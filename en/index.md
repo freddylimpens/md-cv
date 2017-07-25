@@ -4,7 +4,7 @@ title: Freddy Limpens's CV
 ---
 
 <div id="lang">
-<a class="unselected" href="../fr/">FR</a> | <a class="selected" href="../en/">EN</a>
+<a class="unselected" href="../fr/">FR</a> | <a class="selected" href="../en/">EN</a> | <a class="unselected" href="../it/">IT</a>
 </div>   
     
 # Freddy Limpens
