@@ -4,11 +4,11 @@ title: Freddy Limpens's CV
 ---
 
 <div id="lang">
-<a class="unselected" href="../fr/">FR</a> | <a class="selected" href="../en/">EN</a> | <a class="unselected" href="../it/">IT</a>
+<a class="unselected" href="../fr/">FR</a> | <a class="selected" href="../en/">EN</a>
 </div>   
-    
+
 # Freddy Limpens
-French 36 years old engineer, PhD and full stack web developper 
+French 37 years old engineer and data scientist
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
@@ -18,23 +18,31 @@ French 36 years old engineer, PhD and full stack web developper
 <i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">GitHub</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
+|
+<i class="fa fa-book"></i> <a href="https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Freddy+Limpens">Publications</a>
 </div>
 
 ## Currently
 
-<p style="margin-top:-42px">I'm a freelance worker providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.</p>
+<p style="margin-top:-42px">I'm an engineer and data scientist providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.</p>
 
 
 ## Experience
+
+`10.2017 - 12.2018`
+__University of Bologna, Italy__ Researcher and engineer, [ SCAR project](http://dasplab.cs.unibo.it/index.php/scar/); Development of a solution for analysing citations data within scientific litterature mixing machine learning, NLP, and  Semantic Web. Project in collaboration with [Elsevier B.V](https://www.elsevier.com) (Amsterdam).
+
+`01.2017 - 09.2017`
+__limpica.net__ Consultant; Web solution design and modeling for digital fabrication in collaboration with [antoinemazurier.com](https://www.antoinemazurier.com).
 
 `09.2015 - 12.2016`
 __[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/).
 
 `11.2013 - 09.2015`
-__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations (e.g. [Cartographies Urbaines (TAZ)](http://fuzzyfrequency.com/#/cartographies-taz-koan/), [Arte.tv Worldbrain](http://worldbrain.arte.tv/)).
+__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations (e.g. [Arte.tv Worldbrain](http://worldbrain.arte.tv/)).
 
 `12.2012 - 10.2013`
-__Imagination for People__ : Technical coordinator (following agile methods) and developper for the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery and sharing of social projects.
+__Imagination for People__ : Technical coordinator and developper for the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery and sharing of social projects.
 
 `01.2011 - 02.2012`
 __Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Modelling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments.
@@ -53,7 +61,7 @@ __[Fluydin France](http://www.fluidyn.com)__ :Internship in a consultancy and so
 * SQL (PostgreSQL, MySQL)
 * HTML5/CSS3
 * Javascript (JQuery, Leaflet)
-* AngularJS 
+* AngularJS
 * Semantic Web (RDF, SPARQL)
 * Git
 * Linux (sys-admin)
@@ -114,11 +122,11 @@ As a teacher and science and philosophy , I love transmitting
 
 ### datarea
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account. 
+I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 -->
 
-<!--
-## Links 
+
+## Links
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
 * <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
@@ -126,5 +134,3 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 
 ### Footer
-
-Last updated: May 2013 -->
