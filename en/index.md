@@ -8,14 +8,13 @@ title: Freddy Limpens's CV
 </div>   
 
 # Freddy Limpens
-French 37 years old engineer and data scientist
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
 <i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">GitHub</a>
+<i class="fa fa-gitlab"></i> <a href="https://gitlab.com/fdymnx">GitLab</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
 |
@@ -24,16 +23,18 @@ French 37 years old engineer and data scientist
 
 ## Currently
 
-<p style="margin-top:-42px">I'm an engineer and data scientist providing consulting, teaching, and complete realizations in web applications, linked data, e-learning, and digital fabrication.</p>
+<p style="margin-top:-42px">I'm a senior Knowledge Graph Engineer at <a href="https://probabl.ai/">:probabl.ai</a> with 15 years of experience</p>
 
 
 ## Experience
+`09.2024 - present` 
+__:probabl.__ As a senior Knowledge Graph Engineer in the Professional Services branch of [:probabl.ai](https://probabl.ai/), I am responsible for the expertise in semantic web technologies as well as the modelization of our client's knowledge. I contribute as well to the architecture of the tailored solutions we develop, and give trainings sessions.
+
+`01.2019 - 09-2024` 
+__Mnemotix__ As a Project manager and Semantic Web Expert, I supervise the unfolding of our projects, and design the knwoledge graph structure used at the core of the systems we developp. I also give trainings, and participate in the dissemination of Mnemotix's achievments in research and development.  
 
 `10.2017 - 12.2018`
-__University of Bologna, Italy__ Researcher and engineer, [ SCAR project](http://dasplab.cs.unibo.it/index.php/scar/); Development of a solution for analysing citations data within scientific litterature mixing machine learning, NLP, and  Semantic Web. Project in collaboration with [Elsevier B.V](https://www.elsevier.com) (Amsterdam).
-
-`01.2017 - 09.2017`
-__limpica.net__ Consultant; Web solution design and modeling for digital fabrication in collaboration with [antoinemazurier.com](https://www.antoinemazurier.com).
+__University of Bologna, Italy__ Short Term contract Researcher for the [ SCAR project](http://dasplab.cs.unibo.it/index.php/scar/); Development of a solution for analysing citations data within scientific litterature mixing machine learning, NLP, and  Semantic Web. Project in collaboration with [Elsevier B.V](https://www.elsevier.com) (Amsterdam).
 
 `09.2015 - 12.2016`
 __[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/).
@@ -50,27 +51,39 @@ __Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdo
 `09.2007 - 10.2010`
 __Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://wimmics.inria.fr/) working on social tagging data analysis, Linked Data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
 
-`09.2004-02.2005`
-__[Fluydin France](http://www.fluidyn.com)__ :Internship in a consultancy and software modeling company in fluid dynamics and acoustic area. Enhancement of algorithms for modelling noise propagation on long distance.
+
 
 ## Technical skills
 
-* Python (Django, Flask)
-* Testing (Python Unittest)
-* Java (J2EE)
-* SQL (PostgreSQL, MySQL)
-* HTML5/CSS3
-* Javascript (JQuery, Leaflet)
-* AngularJS
-* Semantic Web (RDF, SPARQL)
-* Git
-* Linux (sys-admin)
-* Data-mining
-* Scientific Computation
-* Matlab
-* CAD (FreeCad)
-* MicroControllers
+* Semantic Web (RDF, RDFS, OWL, SPARQL, SHACL, Rule Engines)
+* Python (Django, dataviz)
+* Machine Learning (scikit learn)
+* Web, Javascript
+* Git (CI scripts)
 
+## Education
+
+`2007 - 2010`
+__Université Nice Sophia Antipolis__ Computer Science PhD, *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
+
+`2005 - 2007`
+__Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems
+
+`2000 - 2005`
+__Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, specialized in Acoustics and Modelling
+
+## Language and other skills
+
+* **English** : fluent
+* **Italian** : fluent
+* **French** : native
+* **Driving Licence (B)**
+* Digital fabrication
+* 3D modelling
+* Wood works and design
+* Occasional guitar player
+* DIY and free software
+  
 
 ## Teaching
 
@@ -84,7 +97,6 @@ __Les Petits Débrouillards__ One of the main french popular science NGO; tutori
 __Université Nice Sophia Antipolis__ Laboraty for a *Web 2.0 Technology* class
 
 ## Publications
-
 
 1 . Limpens, F.; Gandon, F. & Buffa, M., **Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un Etat de l'art**, in Proc. 19èmes journées francophones d'Ingénierie des Connaissances, Nancy, 2008 http://hal.archives-ouvertes.fr/hal-00416693/fr/
 
@@ -114,32 +126,11 @@ __Université Nice Sophia Antipolis__ Laboraty for a *Web 2.0 Technology* class
 
 14 . E. Bogdanov, F. Limpens, N. Li, S. El Helou and C. Salzmann et al. **A Social Media Platform in Higher Education.** Global Engineering Education Conference (EDUCON), Marrakesh, Morocco, 2012.
 
-<br/> 
-<br/> 
-<br/> 
+15 . Angelo Di Iorio, Freddy Limpens, Silvio Peroni, Agata Rotondi, Georgios Tsatsaronis and Jorgos Achtsivassilis **Coloring citations for scholars: investigating palettes**, [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination](https://save-sd.github.io/2018/) Workshop co-located with The Web Conference, Lyon, France, 2018.
 
-## Education
 
-`2007 - 2010`
-__Université Nice Sophia Antipolis__ Computer Science PhD, *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
 
-`2005 - 2007`
-__Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems
 
-`2000 - 2005`
-__Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, specialized in Acoustics and Modelling
-
-## Language and other skills
-
-* **English** : fluent
-* **Italian** : fluent
-* **French** : native
-* **Driving Licence (B)**
-* Digital fabrication
-* 3D modelling
-* Wood works and design
-* Occasional guitar player
-* DIY and free software
 
 
 
@@ -163,7 +154,5 @@ I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/
 
 * <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
 * <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
-* <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/en/freddy_limpens.cv.en.pdf">PDF version</a>
+<!-- * <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/en/freddy_limpens.cv.en.pdf">PDF version (short)</a> -->
 
-
-### Footer

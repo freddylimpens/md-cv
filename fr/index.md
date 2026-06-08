@@ -8,14 +8,12 @@ title: CV Freddy Limpens
 
 
 # Freddy Limpens
-Ingénieur R&D, Web et Data science, 37 ans.
+Ingénieur R&D, Web et Data science, 41 ans.
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
 <i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/freddylimpens">GitHub</a>
 |
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
 |
@@ -23,13 +21,14 @@ Ingénieur R&D, Web et Data science, 37 ans.
 </div>
 
 
-
 ## A présent
 
-<p style="margin-top:-42px">Ingénieur, dévelopeur, et data-scientist, avec 10  ans d'expérience dans la recherche, la conception, et le développement de solutions collaboratives, systèmes à base de connaissances, et applications e-learning.</p>
-
+<p style="margin-top:-42px">Chef de projet et expert Web Sémantique avec 10  ans d'expérience dans la recherche, la conception, et le développement de solutions collaboratives, systèmes à base de connaissances, et applications e-learning, et fabrication numérique.</p>
 
 ## Expériences
+
+`depuis 01.2019`
+__Mnemotix, France__, Chef de projet et Consultant: Je suis en charge du montage, du suivi et de la livraison de projets de consulting et développement de systèmes d'informations basés sur les graphes de connaissances et les technologies du Web Sémantique. J'ai notamment été en charge du projet [Dictionnaire des francophones](https://www.dictionnairedesfrancophones.org/) pour le ministère de la Culture, ou encore de l'application [Biométéo](https://biometeo.dordogne.fr/) pour le Conseil départemental de Dordogne. 
 
 `10.2017 - 12.2018`
 __Université de Bologne, Italie__ Ingénieur de recherche, [projet SCAR](http://dasplab.cs.unibo.it/index.php/scar/); Architecture et dévelopement d'une solution d'analyse des données de citations dans la litérature scientifique mêlant machine learning et Web Sémantique. Projet en collaboration avec [Elsevier B.V](https://www.elsevier.com) (Amsterdam).
@@ -49,9 +48,6 @@ __Imagination for People__ Coordinateur technique et développeur de la platefor
 
 `01.2011 - 02.2012`
 __Ecole Polytechnique Fédérale de Lausanne, EPFL__ PostDoc; [équipe REACT](http://react.epfl.ch/), projet européen [ROLE](http://role-project.archiv.zsi.at/) centré sur les environnements d'e-apprentissages adaptatifs et agiles
-
-`09.2007 - 10.2010`
-__INRIA, Sophia Antipolis__ Doctorant, projet ANR ISICIL en partenariat avec Ademe et Orange pour le développement de solutions de veille technologique basées sur l'approche réseaux sociaux couplées aux technologies du Web Sémantique.
 
 ## Compétences Techniques
 
@@ -113,6 +109,6 @@ TBD
 
 -->
 
-## Liens
+<!-- ## Liens
 
-* <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/fr/freddy_limpens.cv.fr.pdf">PDF version</a>
+* <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/fr/freddy_limpens.cv.fr.pdf">PDF version</a> -->
