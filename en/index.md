@@ -12,10 +12,6 @@ title: Freddy Limpens's CV
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a>
 |
-<i class="fa fa-home"></i> <a href="http://limpica.net">limpica.net</a>
-|
-<i class="fa fa-gitlab"></i> <a href="https://gitlab.com/fdymnx">GitLab</a>
-|
 <i class="fa fa-linkedin"></i> <a href="https://fr.linkedin.com/in/freddylimpens">LinkedIn</a>
 |
 <i class="fa fa-book"></i> <a href="https://hal.archives-ouvertes.fr/search/index/q/*/authFullName_s/Freddy+Limpens">Publications</a>
@@ -28,29 +24,25 @@ title: Freddy Limpens's CV
 
 ## Experience
 `09.2024 - present` 
-__:probabl.__ As a senior Knowledge Graph Engineer in the Professional Services branch of [:probabl.ai](https://probabl.ai/), I am responsible for the expertise in semantic web technologies as well as the modelization of our client's knowledge. I contribute as well to the architecture of the tailored solutions we develop, and give trainings sessions.
+__:probabl.__ As a senior Knowledge Graph (KG) Engineer in the Professional Services branch of [:probabl.ai](https://probabl.ai/), I lead projects involving the creation and exploitation of KG within tailored solutions we develop for our clients (L'Oréal, INRAP, SHOM). E.g for the [Inrap's Archipel project](https://archipel.inrap.fr/), I've created the ontology of the KG, contributed to the data ingestion and processing pipeline at the heart of the backend, and tracked the development from the start to the project's delivery.
 
 `01.2019 - 09-2024` 
 __Mnemotix__ As a Project manager and Semantic Web Expert, I supervise the unfolding of our projects, and design the knwoledge graph structure used at the core of the systems we developp. I also give trainings, and participate in the dissemination of Mnemotix's achievments in research and development.  
 
 `10.2017 - 12.2018`
-__University of Bologna, Italy__ Short Term contract Researcher for the [ SCAR project](http://dasplab.cs.unibo.it/index.php/scar/); Development of a solution for analysing citations data within scientific litterature mixing machine learning, NLP, and  Semantic Web. Project in collaboration with [Elsevier B.V](https://www.elsevier.com) (Amsterdam).
+__University of Bologna, Italy__ Short Term contract Researcher: Development of a solution for analysing citations data within scientific litterature mixing machine learning, NLP, and Semantic Web. Project in collaboration with [Elsevier B.V](https://www.elsevier.com). 
 
 `09.2015 - 12.2016`
-__[Université de Lille](http://univ-lille3.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille3.fr/).
+__[Université de Lille](http://univ-lille.fr/)__ : Architect and Developer of automated solutions for multi-channel publishing (Web, Moodle, OpenEDX) of the mooc [Culture Numérique](http://culturenumerique.univ-lille.fr/).
 
 `11.2013 - 09.2015`
-__[Fuzzy Frequency](http://fuzzyfrequency.com/), Digital art and web agency__ : Associated partner & full-stack developper for collaborative web applications (e.g [file sharing app](http://fuzzyfrequency.com/#/outil-de-partage-de-fichiers-collaboratif/), projects sharing platform [Makerscience](http://makerscience.fr/)), and webdocs and installations (e.g. [Arte.tv Worldbrain](http://worldbrain.arte.tv/)).
+__Fuzzy Frequency, web agency__ : Associated partner & full-stack developper (Python + AngularJS) for collaborative web applications (e.g file sharing app, projects sharing platform, etc.), and   the web installation and documentary [Arte.tv Worldbrain](https://www.arte.tv/digitalproductions/world-brain/).
 
 `12.2012 - 10.2013`
-__Imagination for People__ : Technical coordinator and developper for the collaborative platform [Imagination for People](http://imaginationforpeople.org) dedicated to the discovery and sharing of social projects.
+__Imagination for People__ : Technical coordinator and developper (Django Python) for the collaborative platform "Imagination for People" dedicated to the discovery and sharing of social projects.
 
 `01.2011 - 02.2012`
-__Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Ontology modeling and collaborative software prototyping in the European Project [ROLE](http://role-project.archiv.zsi.at/) focused on agile and responsive digital learning environments.
-
-`09.2007 - 10.2010`
-__Institut National de Recherche en Informatique et Automatique, [INRIA](https://www.inria.fr/)__ : Phd in the [Wimmics team](http://wimmics.inria.fr/) working on social tagging data analysis, Linked Data-based structuring, and Web services developpement. Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714)  ([slides](https://www.slideshare.net/Freddy.Limpens/phd-defense-multipoints-of-view-semantic-enrichment-of-folksonomies))
-
+__Ecole Polytechnique Fédérale de Lausanne, [EPFL](http://epfl.ch/)__ : Postdoc researcher in the [REACT team](http://react.epfl.ch/), Ontology modeling and collaborative software prototyping in the European Project ROLE focused on agile and responsive digital learning environments.
 
 
 ## Technical skills
@@ -64,7 +56,7 @@ __Institut National de Recherche en Informatique et Automatique, [INRIA](https:/
 ## Education
 
 `2007 - 2010`
-__Université Nice Sophia Antipolis__ Computer Science PhD, *Multi-point of view collaborative structuring of folksnomies* (supervisors: Fabien Gandon and Michel Buffa)
+__Université Nice Sophia Antipolis, [INRIA](https://www.inria.fr/)__ Phd in the [Wimmics team](http://wimmics.inria.fr/) working on social tagging data analysis, Linked Data-based structuring, and Web services developpement.  Thesis on [_Multi-points of view semantic enrichment of folksonomies_](https://tel.archives-ouvertes.fr/tel-00530714) (supervisors: [Fabien Gandon](https://www-sop.inria.fr/members/Fabien.Gandon/) and [Michel Buffa](https://www.fun-campus.fr/fr/persons/michel-buffa/))
 
 `2005 - 2007`
 __Chalmers University of Technology__ MSc Applied Information Technology, specialized in Digital Arts and Interactive systems
@@ -74,7 +66,7 @@ __Université de Technologie de Compiègne UTC__ Engineer Degree in Mechanics, s
 
 ## Language and other skills
 
-* **English** : fluent
+* **English** : fluent 
 * **Italian** : fluent
 * **French** : native
 * **Driving Licence (B)**
@@ -96,40 +88,34 @@ __Les Petits Débrouillards__ One of the main french popular science NGO; tutori
 `2010`
 __Université Nice Sophia Antipolis__ Laboraty for a *Web 2.0 Technology* class
 
-## Publications
+## Publications (selection)
 
-1 . Limpens, F.; Gandon, F. & Buffa, M., **Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un Etat de l'art**, in Proc. 19èmes journées francophones d'Ingénierie des Connaissances, Nancy, 2008 http://hal.archives-ouvertes.fr/hal-00416693/fr/
+`2018`
+Angelo Di Iorio, Freddy Limpens, Silvio Peroni, Agata Rotondi, Georgios Tsatsaronis and Jorgos Achtsivassilis **Coloring citations for scholars: investigating palettes**, [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination](https://save-sd.github.io/2018/) Workshop co-located with The Web Conference, Lyon, France, 2018.
 
-2 . Limpens, F. & Gandon, F., **Economie de la contribution et outils de partage de connaissances**, in Proc. Atelier IC 2.0, joint aux IC2008, 19èmes journées francophones d'Ingénierie des Connaissances, Nancy, 2008 , http://hal.archives-ouvertes.fr/hal-00530373/fr/
+`2013`
+Freddy Limpens and Fabien Gandon and Michel Buffa, **A Complete Life-Cycle for the Semantic Enrichment of Folksonomies**, Springer. Advances In Knowledge Discovery and Management, Springer, 2013, 978-3-642-35855-5. ⟨10.1007/978-3-642-35855-5⟩. [hal-01171250](https://hal.science/hal-01171250v1)
 
-3 . Limpens, F.; Gandon, F. & Buffa, M., **Bridging Ontologies and Folksonomies to Leverage Knowledge Sharing on the Social Web: a Brief Survey**, in Proc. 1st International Workshop on Social Software Engineering and Applications (SoSEA), 2008 http://hal.archives-ouvertes.fr/hal-00530358/fr/
+`2012`
+E. Bogdanov, F. Limpens, N. Li, S. El Helou and C. Salzmann et al. **A Social Media Platform in Higher Education.** Global Engineering Education Conference (EDUCON), Marrakesh, Morocco, 2012.
 
-4 . Limpens, F.; Gandon, F. & Buffa, M., **Sémantique des folksonomies: structuration collaborative et assistée**, Proc. Ingénierie des Connaissances IC'09, 2009, http://hal.archives-ouvertes.fr/inria-00378223/fr/
+`2011`
+Guillaume Erétéo, Michel Buffa, Olivier Corby, Fabien Gandon, Mylène Leitzelman, Freddy Limpens, and Peter Sander. **Handbook of Research on Methods and Techniques for Studying Virtual Communities, chapter Semantic Social Network Analysis, a Concrete Case.** 2011, IGI Global.
 
-5 . Limpens, F.; Gandon, F. & Buffa, M., **Collaborative semantic structuring of folksonomies (short article)**, in IEEE/WIC/ACM Int. Conf. on Web Intelligence, 2009 http://hal.archives-ouvertes.fr/hal-00530361/fr/
+`2010`
+Freddy Limpens, **Multi-points of view semantic enrichment of folksonomies**, PhD thesis, Université Nice - Sophia Antipolis, 2010, [hal-00530714](http://hal.archives-ouvertes.fr/hal-00530714/fr/)
 
-6 . Limpens, F.; Gandon, F. & Buffa, M., **Linking Folksonomies and Ontologies for Supporting Knowledge Sharing: a State of the Art**, Technical Report INRIA, Institut National de Recherche en Informatique et Automatique, 2009 http://hal.archives-ouvertes.fr/hal-00530371/fr/
+`2010`
+Limpens, F.; Gandon, F. & Buffa, M., **Helping online communities to semantically enrich folksonomies**, in Proceedings of the WebSci10: Extending the Frontiers of Society On-Line, [http://webscience.org](http://webscience.org), 2010, [hal-00530364](http://hal.archives-ouvertes.fr/hal-00530364/fr/)
 
-7 . Limpens, F.; Monnin, A.; Laniado, D. & Gandon, F., **NiceTag Ontology: tags as named graphs, in International Workshop in Social Networks Interoperability**, Asian Semantic Web Conference 2009, 2009 , http://hal.archives-ouvertes.fr/hal-00434129/fr/
+`2010`
+Alexandre Monnin and Freddy Limpens and Fabien Gandon and David Laniado, Speech acts meets tagging: NiceTag ontology, AIS SigPrag International Pragmatic Web Conference Track, I-Semantics, Graz, Austria, September 2010.
 
-8 . Alexandre Monnin, Freddy Limpens, David Laniado and Fabien Gandon, **L'ontologie NiceTag : les tags en tant que graphes nommés**, Atelier Web Social, 10ième Conférence Internationale Francophone sur l'Extraction et la Gestion des Connaissances, EGC ,Hammamet, Tunisia, 2010, http://hal-paris1.archives-ouvertes.fr/hal-00452771/fr/
+`2009`
+Limpens, F.; Gandon, F. & Buffa, M., **Collaborative semantic structuring of folksonomies (short article)**, in IEEE/WIC/ACM Int. Conf. on Web Intelligence, 2009, [hal-00530361](http://hal.archives-ouvertes.fr/hal-00530361/fr/)
 
-9 . Alexandre Monnin and Freddy Limpens and Fabien Gandon and David Laniado, Speech acts meets tagging: NiceTag ontology, AIS SigPrag International Pragmatic Web Conference Track, I-Semantics, Graz, Austria, September 2010.
-
-10 . Limpens, F.; Gandon, F. & Buffa, M., **Helping online communities to semantically enrich folksonomies**, in Proceedings of the WebSci10: Extending the Frontiers of Society On-Line, http://webscience.org, 2010 ,http://hal.archives-ouvertes.fr/hal-00530364/fr/
-
-11 . Freddy Limpens, **Multi-points of view semantic enrichment of folksonomies**, PhD thesis, Université Nice - Sophia Antipolis, 2010, http://hal.archives-ouvertes.fr/hal-00530714/fr/
-
-12 . Freddy Limpens and Fabien Gandon and Michel Buffa, **Un cycle de vie complet pour l'enrichissement sémantique des folksonomies**, Proc. 11eme Conférence Internationale Francophone sur l'Extraction et la Gestion des Connaissances, EGC, Brest, January 2011.
-
-13 . Guillaume Erétéo, Michel Buffa, Olivier Corby, Fabien Gandon, Mylène Leitzelman, Freddy Limpens, and Peter Sander. **Handbook of Research on Methods and Techniques for Studying Virtual Communities, chapter Semantic Social Network Analysis, a Concrete Case.** 2011, IGI Global.
-
-14 . E. Bogdanov, F. Limpens, N. Li, S. El Helou and C. Salzmann et al. **A Social Media Platform in Higher Education.** Global Engineering Education Conference (EDUCON), Marrakesh, Morocco, 2012.
-
-15 . Angelo Di Iorio, Freddy Limpens, Silvio Peroni, Agata Rotondi, Georgios Tsatsaronis and Jorgos Achtsivassilis **Coloring citations for scholars: investigating palettes**, [Semantics, Analytics, Visualisation: Enhancing Scholarly Dissemination](https://save-sd.github.io/2018/) Workshop co-located with The Web Conference, Lyon, France, 2018.
-
-
-
+`2008`
+Limpens, F.; Gandon, F. & Buffa, M., **Rapprocher les ontologies et les folksonomies pour la gestion des connaissances partagées : un Etat de l'art**, in Proc. 19èmes journées francophones d'Ingénierie des Connaissances, Nancy, 2008, [hal-00416693](http://hal.archives-ouvertes.fr/hal-00416693/fr/)
 
 
 
@@ -148,11 +134,3 @@ As a teacher and science and philosophy , I love transmitting
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 -->
-
-
-## Links
-
-* <i class="fa fa-envelope"></i> <a href="mailto:freddy@limpica.net">freddy@limpica.net</a><br />
-* <i class="fa fa-home"></i> <a href="http://limpica.net/fdy">limpica.net/fdy</a><br />
-<!-- * <i class="fa fa-file-pdf-o"></i> <a href="http://limpica.net/fdy/cv/en/freddy_limpens.cv.en.pdf">PDF version (short)</a> -->
-
